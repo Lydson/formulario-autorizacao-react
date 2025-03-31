@@ -2,7 +2,11 @@
 
 Este é um projeto simples em React que simula uma página de contato. A página pede ao usuário uma senha para acessar informações de contato, como links para o GitHub e LinkedIn. Se a senha fornecida estiver correta, o usuário verá as informações de contato.
 
+![Senha](https://raw.githubusercontent.com/Lydson/formulario-autorizacao-react/main/assets/images/senha.png)
+
 Senha: lydson
+
+![Contato](https://raw.githubusercontent.com/Lydson/formulario-autorizacao-react/main/assets/images/contato.png)
 
 ## Funcionalidades
 
