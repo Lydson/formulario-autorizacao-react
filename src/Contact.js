@@ -17,8 +17,8 @@ function Contact() {
 
   const login = (
     <form action="#" onSubmit={handleSubmit}>
-      <input type="password" placeholder="Password" />
-      <input type="submit" />
+      <input type="password" placeholder="Senha" />
+      <input type="submit" value="Enviar" />
     </form>
   );
 
